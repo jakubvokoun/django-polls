@@ -1,0 +1,11 @@
+# IDE
+.vscode/
+
+# Python
+*.egg-info
+*.pot
+*.py[co]
+__pycache__
+
+# App specific
+db.sqlite3
